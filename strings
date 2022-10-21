@@ -1,0 +1,16 @@
+a = 'hello Jay'
+b = 3 * a
+print(a.rfind('Jay'))
+print(a.find('Jay'))
+print(a)
+print(b)
+print(dir(str))
+print(a.isupper())
+c = a.swapcase()
+print(c)
+print(a.isupper())
+d = a.upper()
+print(d)
+print(a.isupper())
+print(a[:6] + 'J' + a[7:])
+print(a.isalpha())
